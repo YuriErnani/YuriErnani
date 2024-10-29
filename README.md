@@ -15,12 +15,17 @@
 
 <br>
 
-<div align="left">
-  <img height="180px"  src="https://github-readme-stats.vercel.app/api?username=YuriErnani&show_icons=true&custom_title=YuriErnani's%20Github%20Stats&theme=tokyonight&hide_border=true">
-  <img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=YuriErnani&theme=tokyonight&hide_border=true">
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=YuriErnani&theme=tokyonight" />
+  </a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs?username=samuel-duque">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=YuriErnani&theme=tokyonight&layout=donut" />
+  </a>
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=samuel-duque">
+    <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YuriErnani&theme=tokyonight&&card_width=774" />
+  </a>
 </div>
-
-<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriErnani&langs_count=8&theme=tokyonight&hide_border=true">
 
 ## 🏆 GitHub Trophies
 
