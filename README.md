@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=70A5FD&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2376FF&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!;My+Name+is+Yuri+Ernani;I'm+a+Back-End+Developer;Welcome+to+My+GitHub+Profile!)](https://git.io/typing-svg)
 
@@ -21,10 +21,10 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=YuriErnani&theme=tokyonight" />
   </a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs?username=samuel-duque">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs?username=YuriErnani">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=YuriErnani&theme=tokyonight&layout=donut" />
   </a>
-  <a href="https://github-readme-streak-stats.herokuapp.com/?user=samuel-duque">
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=YuriErnani">
     <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YuriErnani&theme=tokyonight&&card_width=774" />
   </a>
 </div>
