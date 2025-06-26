@@ -119,7 +119,13 @@
 </table>
 
 <table align="right" height="500px" width="180px">
-  
+  <tr>
+    <td>
+      <a href="https://github.com/YuriErnani/voll-med-api" target="_blank">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriErnani&repo=voll-med-api&theme=tokyonight&hide_border=true">
+      </a>
+    </td>
+  </tr>
 </table>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
