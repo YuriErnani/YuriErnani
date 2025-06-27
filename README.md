@@ -29,18 +29,6 @@
   </a>
 </div>
 
-## 🏆 <i>GitHub Trophies</i>
-
-<br>
-
-<div align="center">
-
-  ![](https://github-profile-trophy.vercel.app/?username=YuriErnani&theme=tokyonight&hide_border=true&no-frame=false&no-bg=false&margin-w=4)
-
-</div>
-
-<br>
-
 <h2 align="center"> <i>H A R D &emsp;S K I L L S &emsp;|&emsp; P R O J E C T S</i> </h2>
 
 <br>
@@ -122,6 +110,13 @@
   <tr>
     <td>
       <a href="https://github.com/YuriErnani/voll-med-api" target="_blank">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriErnani&repo=voll-med-api&theme=tokyonight&hide_border=true">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/YuriErnani/itau-transactional-api" target="_blank">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriErnani&repo=voll-med-api&theme=tokyonight&hide_border=true">
       </a>
     </td>
