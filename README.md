@@ -1,9 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2376FF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!;My+Name+is+Yuri+Ernani;I'm+a+Back-End+Developer;Welcome+to+My+GitHub+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!;My+Name+is+Yuri+Ernani;I'm+a+Software?Engineer+Developer;Welcome+to+My+GitHub+Profile!)](https://git.io/typing-svg)
 
 ## 🔍 <i>About Me</i>
-👨🏾‍💻 Back-End developer sharing about my journey and learnings in the wide world of technology <br>🎓 I am currently in the 5th period of the Computer Science course at Universidade Tiradentes - Unit.<br>🚀 I seek to transform your ideas into functional lines of code<br>📚 Currently learning about Java e Spring Boot
+👨🏾‍💻 Software Engineer sharing about my journey and learnings in the wide world of technology <br>🎓 I am currently in the 5th period of the Computer Science course at Universidade Tiradentes - Unit.<br>🚀 I seek to transform your ideas into functional lines of code<br>📚 Currently learning about the world of IA and Data Science
 
 <br>
 
