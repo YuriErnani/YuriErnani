@@ -8,7 +8,7 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="20" height="20" /> I am currently in the 5th period of the Computer Science course at Universidade Católica de Brasilia
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="20" height="20" /> I seek to transform your ideas into functional lines of code
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="20" height="20" /> I seek to transform ideas into functional lines of code
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="20" height="20" /> Currently learning about the world of AI and Data Science
 
@@ -18,14 +18,14 @@
 
 <div align="center">
 
-## <i>My Stack<i>
+## <i>Tech Stack<i>
 
 </div>
 
-### Languages and Data Bases
+### Languages & Data Bases
 <img src="https://skillicons.dev/icons?i=java,python,mysql,postgres&theme=dark" />
 
-### Frameworks and Libraries
+### Frameworks & Libraries
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45"/>
 &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/>
