@@ -23,11 +23,23 @@
 </div>
 
 ### Languages and Data Bases
-<img src="https://skillicons.dev/icons?i=python,java,mysql,postgres,sqlite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,python,mysql,postgres&theme=dark" />
 
-### Tools
-<img src="https://skillicons.dev/icons?i=git,github,aws,azure,vscode&theme=dark" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="48"/>
+### Frameworks and Libraries
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/>
+&nbsp;
+<img src="https://cdn.simpleicons.org/numpy" width="45"/>
+&nbsp;
+<img src="https://logo.svgcdn.com/logos/seaborn-icon.svg" width="45"/>
+&nbsp;
+<img src="https://cdn.simpleicons.org/plotly" width="40"/>
+&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="68"/>
+
+### Other Tools
+<img src="https://skillicons.dev/icons?i=github,git,aws,azure&theme=dark" />
 
 <div align="center">
 
